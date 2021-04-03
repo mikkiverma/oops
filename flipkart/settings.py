@@ -25,7 +25,7 @@ SECRET_KEY = 'z8v22ym0d1v@7($ny8zr)xkqj-49(1ofq5(5@0_2rf%^%av^4)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','miniflipkart76.herokuapp.com']
 
 
 # Application definition
